@@ -1,5 +1,5 @@
 # BarTable
-A graphical construction of a bar/pub table through Blender. Open blnder/pubTable.blend with Blender.
+A graphical construction of a bar/pub table through Blender. Open ```blnder/pubTable.blend``` with Blender.
 
 ![](blender/pubTable.png?raw=true "Bar table")
 

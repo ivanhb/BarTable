@@ -1,0 +1,7 @@
+#Create a file.txt
+touch file.txt
+
+#Copy file in Directory
+cp /from/his/location/file /to/the/destination
+
+
